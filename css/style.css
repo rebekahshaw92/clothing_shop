@@ -1,0 +1,79 @@
+html, body {
+  margin: 0;
+  padding: 0; }
+
+i {
+  padding: 0.75rem; }
+
+form {
+  padding: 10px; }
+
+#email, #password {
+  width: 300px; }
+
+#login, #newCustomer {
+  border: 1px solid #000;
+  margin-top: 40px;
+  height: 450px; }
+
+#newCustomer h1 {
+  text-align: center; }
+#newCustomer h2 {
+  text-align: center; }
+
+#newAccount {
+  width: 400px;
+  padding: 10px; }
+
+#signIn {
+  width: 300px; }
+
+#createAccount {
+  border: 1px solid #000;
+  margin-top: 40px; }
+  #createAccount h1 {
+    text-align: center;
+    margin-top: 10px; }
+  #createAccount label {
+    display: inline-block;
+    margin-right: 10px;
+    text-align: left;
+    width: 30%; }
+  #createAccount input {
+    display: inline-block;
+    margin-top: 10px;
+    width: 300px; }
+
+#myButton input {
+  width: 500px;
+  margin-left: 100px; }
+
+#mainMenu {
+  padding: 0; }
+  #mainMenu img {
+    width: 240px;
+    height: 70px;
+    display: block; }
+
+.card-body {
+  text-align: center !important; }
+
+#itemImage img {
+  height: 600px  !important;
+  width: 500px !important; }
+
+#shopImage img {
+  height: 130px !important;
+  width: 100px !important; }
+
+.dropdown {
+  padding-right: 120px; }
+
+.dropdown-menu {
+  width: 300px !important; }
+
+#quanitiy {
+  width: 60px;
+  height: 30px; }
+
+/*# sourceMappingURL=style.css.map */
